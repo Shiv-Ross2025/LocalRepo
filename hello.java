@@ -5,5 +5,6 @@ class Sol{
     public static void main(String[] args) {
         System.out.println("Hello everyone");
         System.out.println(4);
+        System.out.println("this is demo1");
     }
 }
