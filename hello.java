@@ -6,5 +6,6 @@ class Sol{
         System.out.println("Hello everyone");
         System.out.println(4);
         System.out.println("this is demo1");
+        System.out.println("This is a main");
     }
 }
